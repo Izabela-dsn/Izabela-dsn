@@ -6,7 +6,7 @@
 * Me interesso pelo desenvolvimento front-end 💻
 * Tenho curiosidade sobre o universo mobile 📱
 * Amo cachorros 🐕
-* Atualmente me dedicando nos estudos da universidade 📔 e no desenvolvimento front-end com uma pitada de UX :bulb:
+* Atualmente me dedicando nos estudos da universidade 📔 e no desenvolvimento front-end com uma pitada de UI/UX :bulb:
 
 
 
