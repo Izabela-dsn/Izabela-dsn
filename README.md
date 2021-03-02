@@ -6,9 +6,8 @@
 * Me interesso pelo desenvolvimento front-end 💻
 * Tenho curiosidade sobre o universo mobile 📱
 * Amo cachorros 🐕
-* Atualmente me dedicando nos estudos da universidade 📔 e no desenvolvimento front-end com uma pitada de UI/UX :bulb:
-
-
+* Atualmente me dedicando nos estudos da universidade 📔 e no desenvolvimento front-end com uma pitada de UI/UX :bulb: 
+[<img src = "https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">](https://dribbble.com/Izabela_Anyz)
 
 ### Quer bater um papo comigo? :shipit:
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iz_abela/) <addr>
