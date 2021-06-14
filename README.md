@@ -8,7 +8,7 @@
 * Amo cachorros 🐕
 * Atualmente me dedicando nos estudos da universidade 📔 e no desenvolvimento front-end com uma pitada de UI :bulb: 
 
-     [<img src = "https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">](https://dribbble.com/Izabela_Anyz)
+     
 
 ### Quer bater um papo comigo? :shipit:
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iz_abela/) <addr>
@@ -16,7 +16,7 @@
 
 <!--
 **Izabela-dsn/Izabela-dsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[<img src = "https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">](https://dribbble.com/Izabela_Anyz)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
