@@ -13,6 +13,9 @@
 ### Quer bater um papo comigo? :shipit:
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iz_abela/) <addr>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/izabela-da-silva-neves-094364197/)
+     
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Izabela-dsn.visitor-badge)
 
 <!--
 **Izabela-dsn/Izabela-dsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
