@@ -15,11 +15,15 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/izabela-da-silva-neves-094364197/)
      
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Izabela-dsn.visitor-badge)
+
 
 <!--
 **Izabela-dsn/Izabela-dsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 [<img src = "https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">](https://dribbble.com/Izabela_Anyz)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Izabela-dsn.visitor-badge)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
