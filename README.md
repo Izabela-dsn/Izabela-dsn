@@ -3,10 +3,9 @@
 
 
 ### 🤙🏼 Um *tiquin* sobre mim: :rainbow_flag:
-* Me interesso pelo desenvolvimento front-end 💻
-* Tenho curiosidade sobre o universo mobile 📱
+* Me interesso pela área de desenvolvimento 💻
 * Amo cachorros 🐕
-* Atualmente me dedicando nos estudos da universidade 📔 e no desenvolvimento front-end com uma pitada de UI :bulb: 
+* Atualmente me dedicando nos estudos da universidade 📔 e da área de desenvolvimento front-end :computer:
 
      
 
