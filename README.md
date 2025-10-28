@@ -3,9 +3,10 @@
 
 
 ### 🤙🏼 Um *tiquin* sobre mim: :rainbow_flag:
-* Me interesso pela área de desenvolvimento 💻
+* Me interesso pela área de desenvolvimento e arquitetura 💻
 * Amo cachorros 🐕
-* Atualmente me dedicando nos estudos da universidade 📔 e da área de desenvolvimento front-end :computer:
+* Formada em Engenharia de Computação - UFU 🤓
+* Atualmente atuando como Analista de TI e mergulhando no desenvolvimento front-end :computer:
 
      
 
